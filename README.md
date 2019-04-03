@@ -7,7 +7,7 @@
  /_/   \_\_| \_\_|  |_|\____|_| \_\/_/   \_\____|_|\_\_____|_| \_\
 
 ```
-Dictionaries for cracking Armenian  hashes 
+Dictionaries for cracking hashes with Armenian keys 
 
 
 # LINKS
