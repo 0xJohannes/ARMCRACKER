@@ -8,3 +8,7 @@
 
 ```
 Dictionaries for cracking Armenian  hashes 
+
+
+# LINKS
+* [Armbest64](https://mega.nz/#!p4BQmAoB!dcz0yviPysyaawAMds78binsdh-jOYP6itS6soIbO-c)
